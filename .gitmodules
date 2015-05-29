@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/no_comments_subject"]
+	path = sites/all/modules/no_comments_subject
+	url = https://github.com/CountPacMan/no_comments_subject.git
