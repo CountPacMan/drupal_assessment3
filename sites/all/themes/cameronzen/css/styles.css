@@ -20,3 +20,29 @@
 /* SMACSS theme rules */
 /* @import "theme-A.css"; */
 /* @import "theme-B.css"; */
+html {
+    background-color: #D3D6DB;
+}
+
+header {
+    background-color: #6E432E;
+    color: white;
+}
+
+a.header__site-link span {
+    color: #D1A38C;
+    text-decoration: none;
+}
+
+a, a:link {
+    color: brown;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+article header {
+    background-color: #D3D6DB;
+}
